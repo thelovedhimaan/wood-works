@@ -1,0 +1,23 @@
+.mainTable {
+   display: flex;
+   justify-content: center;
+   width: 1500px;
+}
+.Table {
+   display: flex;
+   justify-content: center;
+   text-align: center;
+   padding: 60px 30px;
+}
+.colors {
+   width: 400px;
+}
+.cardImage {
+   width: 90%;
+   border-radius: 20px;
+   filter: grayscale(0);
+}
+.Table:hover .cardImage {
+   filter: grayscale(100%);
+   cursor: pointer;
+}

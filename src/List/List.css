@@ -1,0 +1,22 @@
+.List {
+   padding: 20px;
+   width: 20px;
+}
+.head {
+   width: 100%;
+}
+
+.chartlist {
+   display: flex;
+   justify-content: center;
+   width: 100%;
+}
+.chart {
+   padding: 60px;
+   font-weight: 700;
+   font-size: 20px;
+   width: 30%;
+}
+.charthead {
+   width: 30%;
+}
